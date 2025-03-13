@@ -1,0 +1,7 @@
+torch
+ray[train]
+vllm
+deepspeed
+transformers
+datasets
+rouge-score
